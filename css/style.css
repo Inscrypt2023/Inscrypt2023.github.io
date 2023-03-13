@@ -164,7 +164,7 @@ body {
 .call-iframe {
 	position: relative;
 	width: 100%;
-	min-height: 1200px;
+	min-height: 800px;
 	left: 0;
 	top: 0;
 }
